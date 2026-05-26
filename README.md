@@ -1,50 +1,71 @@
-# 🌟 Modern Personal Portfolio Website
+# Portafolio Profesional - Princes Rocio
 
-A clean, beautiful and responsive portfolio website built with HTML, CSS, and JavaScript!
+## Nombre del estudiante
+**Princes Rocio Guerrero Sánchez**
 
-## 🚀 Features
+## Objetivo de la práctica
+Personalizar una plantilla web profesional utilizando Git y GitHub, aplicando conceptos de control de versiones, documentación y despliegue de sitios estáticos.
 
-- 💡 Light/Dark mode toggle
-- 📱 Fully Responsive
-- 🎨 Modern Design
-- 💥 Animations using AOS library
-- 🔄 Dynamic Type Writing effect
-- 🎭 Multiple sections including About, Skills, Portfolio, and Contact
-- 📊 Skills progress visualization
-- 🖼️ Portfolio showcase with Swiper.js
-- 📝 Contact form
-
-## 🛠️ Technologies Used
-
+## Tecnologías utilizadas
 - HTML5
 - CSS3
 - JavaScript
-- Swiper.js - Modern mobile touch slider
-- AOS - Animate On Scroll Library
-- Unicons - Beautiful icons
+- Git
+- GitHub
+- GitHub Pages (para publicación)
+- Swiper.js - Carrusel moderno
+- AOS - Animaciones al hacer scroll
+- Unicons - Iconos profesionales
 
-## 📌 Key Sections
+## Cambios realizados
 
-- 🏠 Home with dynamic typing effect
-- 👨‍💼 About with professional info
-- 🎯 Skills with progress bars
-- 📚 Qualification timeline
-- 💼 Services offered
-- 🖼️ Portfolio showcase
-- 📧 Contact form
+### Datos personales
+- Nombre: Princes Rocio Guerrero Sánchez
+- Profesión: TSU en Desarrollo de Software Multiplataforma
+- Edad: 23 años
+- Ubicación: Dolores Hidalgo, Guanajuato, México
+- Teléfono: +52 468 680 4560
+- Email: princess18gro@gmail.com
+- GitHub: [roygro](https://github.com/roygro)
 
-## 💻 Live Demo
+### Estilos y diseño
+- Cambio de colores principales a azul tecnológico moderno
+- Botones redondeados con efectos hover
+- Gradiente sutil en el fondo de la sección Home
+- Animaciones al hacer hover en tarjetas de servicios y portafolio
+- Tipografía mejorada con fuentes modernas
 
-You can view the live demo of the Portfolio by clicking the link below:
+### Secciones actualizadas
+- **Home:** Frase personalizada "Transformando ideas en código, una línea a la vez"
+- **About:** Información profesional completa con código simulado
+- **Skills:** Tecnologías y porcentajes actualizados (HTML/CSS 85%, JavaScript 80%, React 75%, Angular 70%, Python 75%, Node.js 70%, SQL 80%, Java/C#/C++ 60%, Git 70%)
+- **Educación:** TSU en Desarrollo de Software Multiplataforma - Universidad Tecnológica del Norte de Guanajuato (2023-2025)
+- **Experiencia:** Desarrollador Fullstack Junior en LKSBASS (2024-Presente) y Becario (2023-2024)
+- **Portafolio:** 3 proyectos personalizados (Sistema de Gestión Escolar, EcoCommerce, Control de Inventarios)
+- **Contacto:** Información real actualizada
 
-<a href="https://daneshcode.github.io/Portfolio-Website/" target="_blank">🔗 Open the Portfolio</a>
+### Imágenes
+- Actualización de imágenes de perfil y secciones
 
-## 📞 Contact
+## Comandos Git utilizados
 
-Feel free to reach out if you have any questions or feedback!
+| Comando | Descripción |
+|---------|-------------|
+| `git clone` | Clonar el repositorio original de la plantilla |
+| `git status` | Verificar el estado de los archivos modificados |
+| `git add .` | Agregar todos los cambios al área de staging |
+| `git commit -m "mensaje"` | Crear un commit con los cambios realizados |
+| `git push` | Subir los cambios al repositorio remoto |
+| `git pull` | Traer cambios del repositorio remoto |
+| `git branch -M main` | Renombrar rama principal a main |
+| `git remote -v` | Ver repositorios remotos conectados |
+| `git remote remove origin` | Eliminar referencia remota original |
+| `git remote add origin URL` | Conectar nuevo repositorio remoto |
+| `git push -u origin main` | Subir proyecto y establecer upstream |
 
-- 📧 Email: [DaneshCode.Dev@gmail.com](mailto:DaneshCode.Dev@gmail.com)
+## Enlaces importantes
+- **Repositorio GitHub:** [https://github.com/roygro/portafolio-profesional-web](https://github.com/roygro/portafolio-profesional-web)
+- **Sitio publicado (GitHub Pages):** [https://roygro.github.io/portafolio-profesional-web/](https://roygro.github.io/portafolio-profesional-web/)
 
----
-
-⭐ Don't forget to star this repo if you like it!
+## Fecha de entrega
+Mayo 2026
